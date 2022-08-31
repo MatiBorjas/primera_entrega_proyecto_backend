@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "Wed, 31 Aug 2022 03:26:17 GMT",
+    "nombre": "KEYCHRON Q4 (60%)",
+    "descripcion": "Keychron's new addition to the custom keyboard line-up is the Q4, taking all the premium features of the Q1 and the Q2, but now at a 60% size.",
+    "codigo": "KQ4",
+    "foto": "https://dummyimage.com/300x300/b80000/e8e8e8&text=imagen",
+    "precio": 139,
+    "stock": 5,
+    "id": 1
+  }
+]
